@@ -2,7 +2,7 @@
 
 A lightweight, customizable Android SDK (Jetpack Compose) to let users contact support from inside your app. It provides three ready-made UI styles, robust networking with retries, error handling, and a simple integration API.
 
-[![JitPack](https://jitpack.io/v/ControlKit/ContactSupportKit-Android.svg)](https://jitpack.io/#ControlKit/ContactSupportKit-Android)
+[![JitPack](https://jitpack.io/v/ControlKit/ContactSupportKit-Android.svg)](https://jitpack.io/#ControlKit/ContactSupportKit-Android) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Features
 - **Three UI styles**: `FullScreen1`, `Popover1`, `Popover2`
@@ -196,4 +196,4 @@ val kit = contactSupportKitHost(
 - Jetpack Compose 1.4+
 
 ## License
-See `LICENSE`.
+Licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
