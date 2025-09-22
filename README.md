@@ -39,10 +39,10 @@ dependencyResolutionManagement {
 In your app module `build.gradle.kts`:
 ```kotlin
 dependencies {
-    implementation("com.github.ControlKit:ContactSupportKit-Android:<latest-version>")
+    implementation("com.github.ControlKit:ContactSupportKit-Android:0.0.1")
 }
 ```
-Check the badge above for `<latest-version>`.
+You can also check the badge above for newer versions.
 
 ### 3) Configure API endpoint
 Set `API_URL` in your project `local.properties` (root of the project):
